@@ -2,7 +2,7 @@
 
 I'm a Web dev focused mainly on Front-end with UI/UX skills. I'm based in Montevideo, Uruguay. 
 
-I've been studying develompent since 2018, having the chance to develop many projects and works on my own. 
+I've been studying develompent since 2019, having the chance to develop many projects and works on my own. 
 
 #### But... What about now? 
 
