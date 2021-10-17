@@ -1,12 +1,6 @@
 ### Hey, I'm Fernando Vargas! 👋
 
-I'm a Web dev focused mainly on Front-end with UI/UX skills. I'm based in Montevideo, Uruguay. 
-
-I've been studying develompent since 2019, having the chance to develop many projects and works on my own. 
-
-#### But... What about now? 
-
-Now, I'm learning and improving my knowledge on Backend development and focusing in most used framework for JavaScript such as React.JS.
+I'm a Web dev student focused mainly on Front-end with UI/UX skills. I'm based in Montevideo, Uruguay.
 
 #### Contact me. 📫
 
