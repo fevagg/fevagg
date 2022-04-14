@@ -1,14 +1,10 @@
-### Hey, I'm Fernando Vargas! 👋
+### Hey, I'm Fernando! 👋
 
 I'm a Web dev student focused mainly on Front-end with UI/UX skills. 💻
 
 I'm based in Montevideo, Uruguay. 📍
 
 Currently learning React.js. ⚛
-
-#### Contact me. 📫
-
-<a href="https://www.linkedin.com/in/fernandoe-vargas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 **fevagg/fevagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
