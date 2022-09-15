@@ -2,8 +2,6 @@
 
 I'm a Web dev student focused mainly on Front-end with UI/UX skills. 💻
 
-I'm based in Montevideo, Uruguay. 📍
-
 Currently learning React.js. ⚛
 
 <!--
